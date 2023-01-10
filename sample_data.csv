@@ -1,0 +1,7 @@
+invoice_id,currency,company,invoice_date,activation_date,product,amount,discount,subtotal,tax_rate,tax_amount,total,location,type
+ABCDE30000253,CAD,Customer 1,9/2/2022,9/2/2022,Virtual Meetings Pro - Annual License CAD Yearly,6250,350,5900,0.13,767,6667,Ontario,subscription
+ABCDE30000253,CAD,Customer 1,9/2/2022,9/2/2022,Professional Service Fee CAD,350,,350,0.13,45.5,395.5,Ontario,charge
+ABCDE30000309,CAD,Customer 2,9/16/2022,9/16/2022,Virtual Meetings Pro - Annual License CAD Yearly,1700,600,1100,0.13,143,1243,Ontario,subscription
+ABCDE30000309,CAD,Customer 2,9/16/2022,9/16/2022,Professional Service Fee CAD,600,,600,0.13,78,678,Ontario,charge
+ABCDE30000314,USD,Customer 3,9/19/2022,9/19/2022,Voting Essentials - Annual License USD Yearly,900,150,750,,0,750,Maryland,subscription
+ABCDE30000314,USD,Customer 3,9/19/2022,9/19/2022,Professional Service Fee USD,150,,150,,0,150,Maryland,charge
